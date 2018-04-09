@@ -28,7 +28,9 @@ This repository contains improvised approach for building job recommendation eng
 
 ## Dataset
 
-You can download dataset from this [link](https://www.kaggle.com/c/job-recommendation/data) 
+* You can download dataset from this [link](https://www.kaggle.com/c/job-recommendation/data)
+* Make a folder `input_data`
+* Put all datafiles inside this folder
 
 ## Usage
 
